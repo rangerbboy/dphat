@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLogin">#e6e7e8</color>
+    <color name="colorButonlogin">#2030a6</color>
+    <color name="coloMenu">#313338</color>
+    <color name="colorText">#fafdff</color>
+    <color name="colorToolbar">#076ef1</color>
+    <color name="colorTextToolbar">#e6eded</color>
+</resources>
+
